@@ -7,5 +7,10 @@ public class SalesClass {
 		for(int num:arr)
 			System.out.println(num);
 	}
+	
+	public void printLoop() {
+		for(int i=0;1<100;i++)
+			System.out.println(i);
+	}
 
 }
