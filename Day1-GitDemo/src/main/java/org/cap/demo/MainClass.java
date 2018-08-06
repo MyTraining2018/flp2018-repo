@@ -8,12 +8,20 @@ public class MainClass {
 		System.out.println("Hello World!");
 		greet();
 		class1.show();
+		
+		printAll();
 	}
 
 	
 	public static void greet() {
 		System.out.println("Hello");
 		System.out.println("Good Morning");
+	}
+	
+	public static void printAll() {
+		System.out.println("Hey! Good AfterNoon!");
+		System.out.println("Tom");
+		
 	}
 	
 }
