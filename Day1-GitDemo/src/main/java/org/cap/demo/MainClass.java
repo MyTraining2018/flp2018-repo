@@ -8,6 +8,7 @@ public class MainClass {
 		System.out.println("Hello World!");
 		greet();
 		class1.show();
+		class1.printLoop();
 	}
 
 	
